@@ -1,0 +1,7 @@
+.VendingMachine{
+    display: flex;
+}
+
+ul {
+    font-size: 2rem;
+}
